@@ -44,13 +44,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
 
-# 📊 GitHub Stats
-
-![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadiayousaf\&show_icons=true\&theme=tokyonight)
-
----
 
 # 🔥 GitHub Streak
 
