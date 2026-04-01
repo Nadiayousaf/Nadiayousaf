@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadia Yousaf</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Backend+Developer;Flask+Developer;Open+Source+Learner;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Backend+Developer;Flask+Developer;Full+Stack+Developer;" />
 </p>
 
 <h3 align="center">🚀 Python Developer | Backend Developer | Problem Solver</h3>
