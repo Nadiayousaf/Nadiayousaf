@@ -48,19 +48,19 @@
 
 # 📊 GitHub Stats
 
-![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=tokyonight)
+![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadiayousaf\&show_icons=true\&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME\&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nadiayousaf\&theme=tokyonight)
 
 ---
 
 # 📈 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME\&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nadiayousaf\&theme=tokyo-night)
 
 ---
 
@@ -71,7 +71,7 @@
 * Personal Portfolio Website
 * Skills Showcase
 * Projects Showcase
-* Contact Section
+* Contact Showcase
 
 ---
 
