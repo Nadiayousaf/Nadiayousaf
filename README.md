@@ -48,8 +48,7 @@
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nadiayousaf)
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Nadiayousaf&theme=radical)---
 
 # 📈 Contribution Graph
 
