@@ -47,8 +47,8 @@
 
 
 # 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Nadiayousaf&theme=tokyonight)
 
-https://streak-stats.demolab.com?user=Nadiayousaf&theme=tokyonight
 # 📈 Contribution Graph
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nadiayousaf\&theme=tokyo-night)
