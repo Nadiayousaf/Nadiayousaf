@@ -57,6 +57,26 @@
 ---
 
 # 💼 Featured Projects
+## 🌐 Portfolio Website
+
+🔗 Repository: https://github.com/Nadiayousaf/Portfolio-Website
+
+## 🎓 KFUEIT Job Fair Project
+
+🔗 Repository: https://github.com/Nadiayousaf/KFUEIT-Job-Fair
+
+## 🏥 Hospital Management System
+
+🔗 Repository: https://github.com/Nadiayousaf/Hospital-Management-System
+
+## 🏧 ATM Simulation System
+
+🔗 Repository: https://github.com/Nadiayousaf/ATM-Simulation-System
+
+## 📺 Subscription Management System
+
+🔗 Repository: https://github.com/Nadiayousaf/Subscription-Management-System
+
 
 ## 🌐 Portfolio Website (Top Project)
 
@@ -81,42 +101,6 @@
 * Authentication System
 * JSON File Handling
 * User Validation
-
----
-
-## 📒 Contact Management System
-
-* Add Contact
-* Delete Contact
-* Search Contact
-* File Handling
-
----
-
-## 🌐 Flask Backend Projects
-
-* REST APIs
-* Backend Applications
-* Database Integration
-
----
-
-## 📁 File Handling Projects
-
-* JSON Handling
-* Text File Processing
-* Data Storage
-
----
-
-# 🎯 Current Learning
-
-* Python Advanced Concepts
-* Flask Development
-* REST APIs
-* Database Integration
-
----
 
 # 📫 Connect With Me
 
