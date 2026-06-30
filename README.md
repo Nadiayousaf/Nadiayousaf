@@ -94,27 +94,7 @@ I enjoy writing clean, maintainable code, solving challenging problems, and cont
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nadiayousaf&theme=github-dark&hide_border=true"/>
 </p>
-## Graph Contribution Chart:
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/2563EB/Nadiayousaf" alt="GitHub Contribution Chart"/>
-</p>
-
-## Summary Cards:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nadiayousaf&theme=tokyonight"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nadiayousaf&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nadiayousaf&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nadiayousaf&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nadiayousaf&theme=tokyonight&utcOffset=5"/>
-</p>
 # Featured Projects
 ## 🏥 Hospital Management System
 
@@ -218,6 +198,32 @@ https://github.com/Nadiayousaf/Subscription-Management-System
 </p>
 
 ---
+
+## Summary Cards:
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nadiayousaf&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nadiayousaf&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nadiayousaf&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nadiayousaf&theme=tokyonight&utcOffset=5"/>
+</p>
+----
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nadiayousaf&theme=tokyonight"/>
+</p>
+
+----
+
+## Graph Contribution Chart:
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2563EB/Nadiayousaf" alt="GitHub Contribution Chart"/>
+</p>
+
 
 # Let's Connect
 
