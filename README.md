@@ -40,10 +40,6 @@ My expertise spans the complete development lifecycle—from designing intuitive
 
 I enjoy solving real-world problems through software engineering and continuously expanding my knowledge of modern technologies and best development practices. My focus is on writing efficient, scalable, and production-ready applications that deliver an excellent user experience.
 
-I'm currently seeking **Remote Internship** and **Junior Software Engineering** opportunities where I can contribute to meaningful projects while continuing to grow as a developer.
-
----
-
 # Tech Stack
 
 ## Frontend
@@ -75,26 +71,14 @@ I'm currently seeking **Remote Internship** and **Junior Software Engineering** 
 <p>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify"/>
-
 </p>
-
 <p>
 
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-
 </p>
 
----
-
-# Currently Working On
-
-- Building Full Stack web applications using Python and Flask
-- Developing RESTful APIs and backend services
-- Strengthening database design with MySQL, PostgreSQL, and MongoDB
-- Creating responsive user interfaces using Tailwind CSS and Bootstrap
-- Continuously improving software architecture and clean coding practices
 # GitHub Analytics
 
 <p align="center">
@@ -109,11 +93,7 @@ I'm currently seeking **Remote Internship** and **Junior Software Engineering** 
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nadiayousaf&theme=github-dark&hide_border=true"/>
 </p>
-
----
-
 # Featured Projects
-
 ## 🏥 Hospital Management System
 
 ### Full Stack Hospital Management Platform
@@ -241,20 +221,13 @@ https://github.com/Nadiayousaf/Subscription-Management-System
 
 </p>
 
----
-
 <p align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
 
 </p>
 
----
-
 <h3 align="center">
-
 Thanks for visiting my profile.
-
-Let's build something amazing together.
 
 </h3>
