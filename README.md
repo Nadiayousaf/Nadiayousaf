@@ -1,117 +1,141 @@
-<h1 align="center">Hi 👋, I'm Nadia Yousaf</h1>
+<h1 align="center">Hi, I'm Nadia Yousaf 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Full+Stack+Developer;" />
+<strong>Full Stack Developer • Python Flask Developer</strong>
 </p>
 
-<h3 align="center">🚀 Python Developer | Full Stack Developer | Problem Solver</h3>
+<p align="center">
+Building responsive, scalable, and user-focused web applications with modern frontend technologies and Python.
+</p>
+
+<p align="center">
+<a href="https://nadiayousafportfolio.netlify.app/">Portfolio</a> •
+<a href="https://github.com/Nadiayousaf">GitHub</a> •
+<a href="https://www.linkedin.com/in/nadia-yousaf-534096380/">LinkedIn</a>
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-* 🔭 Currently building Python Projects
-* 🌱 Learning Backend Development (Flask, APIs, Databases)
-* 💡 Interested in Software Development & Problem Solving
-* 🎯 Goal: Become Professional Python Developer
-* ⚡ Passionate about building real-world applications
+I'm a Full Stack Developer with practical experience in designing, developing, and deploying web applications. My expertise includes building responsive user interfaces, developing backend services with Python & Flask, integrating databases, and deploying applications to production.
+
+Currently, I'm seeking remote internship and junior software engineering opportunities where I can contribute to real-world products while continuously improving my technical expertise.
 
 ---
 
-# 🚀 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Programming Languages
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend Development
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=python,flask" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 </p>
 
-### 🛠️ Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 </p>
 
+---
 
+## GitHub Statistics
 
-# 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Nadiayousaf&theme=tokyonight)
+<p align="center">
 
-# 📈 Contribution Graph
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nadiayousaf&show_icons=true&hide_border=true&theme=github_dark"/>
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nadiayousaf\&theme=tokyo-night)
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadiayousaf&layout=compact&hide_border=true&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Nadiayousaf&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nadiayousaf&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-# 💼 Featured Projects
-## 🌐 Portfolio Website
+## Featured Projects
 
-🔗 Repository: https://github.com/Nadiayousaf/Portfolio-Website
+### Hospital Management System
 
-## 🎓 KFUEIT Job Fair Project
+**Python • Flask • HTML • CSS • JavaScript • MySQL**
 
-🔗 Repository: https://github.com/Nadiayousaf/KFUEIT-Job-Fair
-
-## 🏥 Hospital Management System
-
-🔗 Repository: https://github.com/Nadiayousaf/Hospital-Management-System
-
-## 🏧 ATM Simulation System
-
-🔗 Repository: https://github.com/Nadiayousaf/ATM-Simulation-System
-
-## 📺 Subscription Management System
-
-🔗 Repository: https://github.com/Nadiayousaf/Subscription-Management-System
-
-
-## 🌐 Portfolio Website (Top Project)
-
-* Personal Portfolio Website
-* Skills Showcase
-* Projects Showcase
-* Contact Showcase
+Complete hospital management platform featuring authentication, patient management, doctor scheduling, appointment booking, and database integration.
 
 ---
 
-## 🏧 ATM Simulation System
+### KFUEIT Job Fair Management System
 
-* Account Types
-* Transactions
-* PIN Security
-* Receipt Generation
+**Python • Flask • HTML • CSS • JavaScript • MySQL**
 
----
-
-## 🔐 Login & Register System
-
-* Authentication System
-* JSON File Handling
-* User Validation
-
-# 📫 Connect With Me
-
-* GitHub: https://github.com/Nadiayousaf
+Full-stack application for managing companies, student registrations, and recruitment workflows.
 
 ---
 
-# ⚡ Fun Fact
+### Subscription Management System
 
-💡 I love solving programming problems and building real-world applications
+**HTML • CSS • JavaScript**
+
+Responsive SaaS billing interface featuring subscription plans, invoice pages, pricing cards, and modern UI components.
 
 ---
 
-⭐ Always Learning | Always Building | Always Improving
+### Personal Portfolio
 
+Modern portfolio website showcasing projects, technical skills, and professional experience.
+
+🔗 https://nadiayousafportfolio.netlify.app/
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nadiayousaf&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## Connect
+
+<p align="left">
+
+<a href="https://github.com/Nadiayousaf">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nadia-yousaf-534096380/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://nadiayousafportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
+</p>
