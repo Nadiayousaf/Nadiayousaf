@@ -217,13 +217,6 @@ https://github.com/Nadiayousaf/Subscription-Management-System
 
 ----
 
-## Graph Contribution Chart:
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2563EB/Nadiayousaf" alt="GitHub Contribution Chart"/>
-</p>
-
-
 # Let's Connect
 
 <p align="center">
