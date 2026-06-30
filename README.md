@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadia Yousaf</h1>
 
 <h3 align="center">
-🚀 Python & Full Stack Developer
+🚀 Python | Full Stack Developer
 </h3>
 
 <p align="center">
@@ -92,6 +92,12 @@ I enjoy writing clean, maintainable code, solving challenging problems, and cont
 
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nadiayousaf&theme=github-dark&hide_border=true"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nadiayousaf&theme=algolia&no-frame=true&margin-w=15" />
 </p>
 
 # Featured Projects
