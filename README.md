@@ -3,9 +3,6 @@
 # Nadia Yousaf
 
 ### Python Developer | Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=850&color=3B82F6&lines=Python+Developer;Full+Stack+Developer;Backend+Engineering;Always+Building+Something+New"/>
-
 </div>
 
 <p align="center">
@@ -36,13 +33,11 @@ Building modern, scalable, and user-focused web applications with Python and con
 
 ---
 
-# About Me
+## About Me
 
-I'm a **Python Developer** and **Full Stack Developer** with hands-on experience building responsive, scalable, and database-driven web applications.
-
-My expertise spans the complete development lifecycle—from designing intuitive user interfaces to developing backend services, integrating relational and NoSQL databases, deploying applications, and maintaining clean, maintainable code.
-
-I enjoy solving real-world problems through software engineering and continuously expanding my knowledge of modern technologies and best development practices. My focus is on writing efficient, scalable, and production-ready applications that deliver an excellent user experience.
+I'm a Python Developer and Full Stack Developer passionate about creating modern, scalable, and reliable web applications.
+My experience spans the complete development lifecycle—from building responsive user interfaces with **HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS** to developing backend services using **Python** and **Flask**, integrating **MySQL, PostgreSQL, MongoDB, and SQLite**, and deploying applications with **Vercel** and **Netlify**.
+I enjoy writing clean, maintainable code, solving challenging problems, and continuously expanding my expertise through real-world projects. I'm currently seeking opportunities where I can contribute to meaningful software while growing as a professional developer.
 
 # Tech Stack
 
@@ -96,6 +91,16 @@ I enjoy solving real-world problems through software engineering and continuousl
 
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nadiayousaf&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nadiayousaf&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nadiayousaf&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nadiayousaf&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nadiayousaf&theme=tokyonight&utcOffset=5"/>
 </p>
 # Featured Projects
 ## 🏥 Hospital Management System
