@@ -1,8 +1,12 @@
-<h1 align="center">Nadia Yousaf</h1>
+<div align="center">
 
-<h3 align="center">
-Python Developer • Full Stack Developer
-</h3>
+# Nadia Yousaf
+
+### Python Developer | Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=850&color=3B82F6&lines=Python+Developer;Full+Stack+Developer;Backend+Engineering;Always+Building+Something+New"/>
+
+</div>
 
 <p align="center">
 Building modern, scalable, and user-focused web applications with Python and contemporary web technologies.
