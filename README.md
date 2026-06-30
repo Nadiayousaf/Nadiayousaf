@@ -1,9 +1,8 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Nadia Yousaf</h1>
 
-# Nadia Yousaf
-
-### Python Developer | Full Stack Developer
-</div>
+<h3 align="center">
+🚀 Python & Full Stack Developer
+</h3>
 
 <p align="center">
 Building modern, scalable, and user-focused web applications with Python and contemporary web technologies.
