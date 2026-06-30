@@ -1,107 +1,113 @@
-<h1 align="center">Hi, I'm Nadia Yousaf 👋</h1>
+<h1 align="center">Nadia Yousaf</h1>
 
-<h3 align="center">Python Developer • Full Stack Developer</h3>
+<h3 align="center">
+Python Developer • Full Stack Developer
+</h3>
 
 <p align="center">
-Building responsive, scalable, and modern web applications using Python and contemporary web technologies.
+Building modern, scalable, and user-focused web applications with Python and contemporary web technologies.
 </p>
 
 <p align="center">
-<a href="https://nadiayousafportfolio.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge"/>
+
+<a href="https://nadiayousafportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Nadiayousaf" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Nadiayousaf">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/nadia-yousaf-534096380/" target="_blank">
+<a href="https://www.linkedin.com/in/nadia-yousaf-534096380/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Full+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Python+Developer;Full+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+and+Growing"/>
+
 </p>
 
 ---
 
 # About Me
 
-I'm a **Full Stack Developer** with hands-on experience building modern, responsive, and database-driven web applications.
+I'm a **Python Developer** and **Full Stack Developer** with hands-on experience building responsive, scalable, and database-driven web applications.
 
-My expertise includes frontend development, backend development with Python, database integration, deployment, and version control. I enjoy transforming ideas into practical software solutions while writing clean, maintainable, and scalable code.
+My expertise spans the complete development lifecycle—from designing intuitive user interfaces to developing backend services, integrating relational and NoSQL databases, deploying applications, and maintaining clean, maintainable code.
 
-I'm currently seeking **Remote Internship** and **Junior Software Engineer** opportunities where I can contribute to real-world products while continuously improving my technical skills.
+I enjoy solving real-world problems through software engineering and continuously expanding my knowledge of modern technologies and best development practices. My focus is on writing efficient, scalable, and production-ready applications that deliver an excellent user experience.
+
+I'm currently seeking **Remote Internship** and **Junior Software Engineering** opportunities where I can contribute to meaningful projects while continuing to grow as a developer.
 
 ---
 
 # Tech Stack
 
-### Frontend
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind"/>
+
 </p>
 
-### Backend
+## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,flask" />
+
+<img src="https://skillicons.dev/icons?i=python,flask"/>
+
 </p>
 
-### Databases
+## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite"/>
+
+</p>
+
+## Tools & Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify"/>
+
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-</p>
 
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
-</p>
-
-<p>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+
 </p>
 
 ---
 
+# Currently Working On
+
+- Building Full Stack web applications using Python and Flask
+- Developing RESTful APIs and backend services
+- Strengthening database design with MySQL, PostgreSQL, and MongoDB
+- Creating responsive user interfaces using Tailwind CSS and Bootstrap
+- Continuously improving software architecture and clean coding practices
 # GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nadiayousaf&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadiayousaf&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nadiayousaf&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadiayousaf&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nadiayousaf&theme=github-dark-blue&hide_border=true"/>
-
+<img width="70%" src="https://streak-stats.demolab.com?user=Nadiayousaf&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nadiayousaf&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nadiayousaf&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nadiayousaf&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -110,88 +116,127 @@ I'm currently seeking **Remote Internship** and **Junior Software Engineer** opp
 
 ## 🏥 Hospital Management System
 
-**Tech Stack:** Python • Flask • HTML • CSS • JavaScript • MySQL
+### Full Stack Hospital Management Platform
 
-A complete hospital management system featuring patient registration, doctor management, appointment scheduling, authentication, and database integration.
+Python • Flask • HTML • CSS • JavaScript • MySQL
 
-🔗 **GitHub:**  
+Developed a complete hospital management platform featuring patient registration, doctor management, appointment scheduling, secure authentication, dashboard management, and database integration.
+
+### Repository
+
 https://github.com/Nadiayousaf/Hospital-Management-System
 
 ---
 
-## 🎓 KFUEIT Job Fair Management System
+## 💼 KFUEIT Job Fair Management System
 
-**Tech Stack:** Python • Flask • HTML • CSS • JavaScript • MySQL
+### University Recruitment Management Platform
 
-A web application developed to manage job fair registrations, company listings, and student applications.
+Python • Flask • HTML • CSS • JavaScript • MySQL
 
-🔗 **GitHub:**  
+Designed and developed a full-stack web application to manage job fairs, company registrations, student applications, job listings, and recruitment workflows.
+
+### Repository
+
 https://github.com/Nadiayousaf/KFUEIT-Job-Fair
-
----
-
-## 💳 Subscription Management System
-
-**Tech Stack:** HTML • CSS • JavaScript
-
-A responsive SaaS billing interface with pricing plans, invoice pages, and a modern user experience.
-
-🔗 **GitHub:**  
-https://github.com/Nadiayousaf/Subscription-Management-System
-
----
-
-## 🏧 ATM Simulation System
-
-**Tech Stack:** Python
-
-A console-based ATM application implementing OOP principles, secure PIN validation, transactions, and receipt generation.
-
-🔗 **GitHub:**  
-https://github.com/Nadiayousaf/ATM-Simulation-System
-
----
-
-## 🎂 Age Calculator
-
-**Tech Stack:** HTML • CSS • JavaScript
-
-A responsive web application for calculating age with an interactive user interface.
-
-🔗 **GitHub:**  
-https://github.com/Nadiayousaf/AgeCalculator
-
-🌐 **Live Demo:**  
-https://nadiayousaf.github.io/AgeCalculator/
 
 ---
 
 ## 🌐 Personal Portfolio
 
-A responsive portfolio website showcasing my projects, skills, and professional profile.
+### Developer Portfolio Website
 
-🔗 **GitHub:**  
+HTML • CSS • JavaScript
+
+A fully responsive portfolio showcasing projects, technical skills, experience, certifications, and contact information.
+
+Repository
+
 https://github.com/Nadiayousaf/Portfolio-Website
 
-🌐 **Live Demo:**  
+Live Demo
+
 https://nadiayousafportfolio.netlify.app/
 
 ---
 
-# Connect With Me
+## 🎂 Age Calculator
 
-<p align="left">
+### Responsive JavaScript Project
+
+HTML • CSS • JavaScript
+
+A modern age calculator with responsive design, accurate date calculations, and intuitive user experience.
+
+Repository
+
+https://github.com/Nadiayousaf/AgeCalculator
+
+Live Demo
+
+https://nadiayousaf.github.io/AgeCalculator/
+
+---
+
+## 💳 Subscription Management System
+
+### SaaS Billing Interface
+
+HTML • CSS • JavaScript
+
+Designed a modern subscription and billing interface featuring pricing plans, invoice pages, dashboard components, and responsive layouts.
+
+Repository
+
+https://github.com/Nadiayousaf/Subscription-Management-System
+# Featured Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+</p>
+
+---
+
+# Let's Connect
+
+<p align="center">
+
+<a href="https://nadiayousafportfolio.netlify.app/">
+
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
 
 <a href="https://github.com/Nadiayousaf">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/GitHub-Nadiayousaf-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/nadia-yousaf-534096380/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
 
-<a href="https://nadiayousafportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-Nadia%20Yousaf-0A66C2?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 </p>
@@ -199,5 +244,17 @@ https://nadiayousafportfolio.netlify.app/
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nadiayousaf&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+
 </p>
+
+---
+
+<h3 align="center">
+
+Thanks for visiting my profile.
+
+Let's build something amazing together.
+
+</h3>
