@@ -94,12 +94,6 @@ I enjoy writing clean, maintainable code, solving challenging problems, and cont
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nadiayousaf&theme=github-dark&hide_border=true"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nadiayousaf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
 # Featured Projects
 ## 🏥 Hospital Management System
 
