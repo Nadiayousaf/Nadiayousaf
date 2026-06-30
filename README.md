@@ -89,9 +89,22 @@ I enjoy writing clean, maintainable code, solving challenging problems, and cont
 <img width="70%" src="https://streak-stats.demolab.com?user=Nadiayousaf&theme=github-dark-blue&hide_border=true"/>
 </p>
 
+## Activity Graph:
+
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nadiayousaf&theme=github-dark&hide_border=true"/>
 </p>
+## Graph Contribution Chart:
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2563EB/Nadiayousaf" alt="GitHub Contribution Chart"/>
+</p>
+
+## Summary Cards:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nadiayousaf&theme=tokyonight"/>
+</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nadiayousaf&theme=tokyonight"/>
