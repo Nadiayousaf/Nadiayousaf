@@ -108,6 +108,33 @@ Developed a complete hospital management platform featuring patient registration
 https://github.com/Nadiayousaf/Hospital-Management-System
 
 ---
+---
+
+## 📚 Intern Vault
+
+**React • TypeScript • Tailwind CSS • Supabase • PostgreSQL • Vercel**
+
+A modern full-stack application developed to organize and manage internship learning resources. Users can add, edit, update, and delete resources while storing data securely in **Supabase PostgreSQL**. The application features a premium responsive UI and is deployed on **Vercel**.
+
+### Key Features
+
+- CRUD Operations
+- React + TypeScript
+- Tailwind CSS
+- Supabase Integration
+- PostgreSQL Database
+- Responsive UI
+- Resource Categories
+- External Resource Links
+- Production Deployment
+
+### Repository
+
+https://github.com/Nadiayousaf/Intern_Vault
+
+### Live Demo
+
+https://internvault-app.vercel.app/
 
 ## 💼 KFUEIT Job Fair Management System
 
