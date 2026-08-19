@@ -32,15 +32,15 @@ Building modern, scalable, and user-focused web applications with Python and con
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 I'm a **Python Developer and Full Stack Developer** passionate about creating modern, scalable, and reliable web applications.
 
-My experience spans the complete development lifecycle — from building responsive user interfaces with **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React** to developing backend services using **Python and Flask**, integrating **MySQL, PostgreSQL, MongoDB, SQLite, and Supabase**, and deploying applications using platforms such as **Vercel, Netlify, Render, and Koyeb**.
+My experience spans the complete development lifecycle — from building responsive user interfaces with **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React** to developing backend services using **Python and Flask**, integrating **MySQL, PostgreSQL, MongoDB, SQLite, and Supabase**, and deploying applications using platforms such as **Vercel, Netlify, Render, Koyeb, Hugging Face, and Zeabur**.
 
 I enjoy writing clean, maintainable code, solving challenging problems, and continuously expanding my expertise through real-world projects.
 
-I'm currently focused on strengthening my skills in **Python development, Full Stack Development, databases, cloud deployment, modern web technologies, and AI-assisted development workflows.**
+I'm currently focused on strengthening my skills in **Python Development, Full Stack Development, Databases, Cloud Deployment, Modern Web Technologies, and AI-Assisted Development**.
 
 ---
 
@@ -70,7 +70,9 @@ I'm currently focused on strengthening my skills in **Python development, Full S
 
 </p>
 
-## ☁️ Deployment & Cloud
+---
+
+# ☁️ Deployment & Cloud
 
 <p>
 
@@ -80,9 +82,17 @@ I'm currently focused on strengthening my skills in **Python development, Full S
 
 <img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Zeabur-6C5CE7?style=for-the-badge&logo=zeabur&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
 </p>
 
-## 🔧 Development Tools
+---
+
+# 🔧 Development Tools
 
 <p>
 
@@ -92,7 +102,9 @@ I'm currently focused on strengthening my skills in **Python development, Full S
 
 </p>
 
-## 🤖 AI & Development Assistants
+---
+
+# 🤖 AI & Development Assistants
 
 <p>
 
@@ -108,7 +120,9 @@ I'm currently focused on strengthening my skills in **Python development, Full S
 
 </p>
 
-## 📋 Productivity & Collaboration
+---
+
+# 📋 Productivity & Collaboration
 
 <p>
 
@@ -138,7 +152,7 @@ I'm currently focused on strengthening my skills in **Python development, Full S
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -175,6 +189,8 @@ Developed a complete hospital management platform featuring:
 ---
 
 ## 📚 Intern Vault
+
+### Internship Learning Resource Management Platform
 
 **React • TypeScript • Tailwind CSS • Supabase • PostgreSQL • Vercel**
 
@@ -214,14 +230,17 @@ Users can add, edit, update, and delete resources while storing data securely in
 
 **Python • Flask • HTML • CSS • JavaScript • MySQL**
 
-Designed and developed a full-stack web application to manage:
+Designed and developed a full-stack web application to manage university recruitment workflows.
 
-- Job Fairs
-- Company Registrations
+### Key Features
+
+- Job Fair Management
+- Company Registration
 - Student Applications
 - Job Listings
 - Recruitment Workflows
 - Database Management
+- Responsive Interface
 
 ### Repository
 
@@ -237,13 +256,14 @@ Designed and developed a full-stack web application to manage:
 
 **HTML • CSS • JavaScript**
 
-A fully responsive portfolio website showcasing:
+A fully responsive developer portfolio showcasing:
 
 - Projects
 - Technical Skills
 - Experience
 - Certifications
 - Contact Information
+- Professional Profile
 
 ### Repository
 
@@ -334,7 +354,7 @@ Designed a modern subscription and billing interface featuring:
 
 ---
 
-# 📌 Summary Cards
+# 📌 GitHub Summary Cards
 
 <p align="center">
 
